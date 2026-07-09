@@ -10,3 +10,5 @@ number = input('number: ')
 data(name,age,number)
 
 print(f'\nname:{name} \nage:{age} \nnumber:{number}')
+
+print('new data')
